@@ -10,7 +10,7 @@
              /\___/                                                                    
              \/__/                                                                     
 ```
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+<br>
 我有时会写一些**bukkit**服务端插件，偶尔也会写点别的其他的项目
 
 |              |    |    |      |     |    |   |
