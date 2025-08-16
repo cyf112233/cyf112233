@@ -37,7 +37,7 @@
 <!-- About me -->
 ### 关于我
 - 关注方向：Minecraft 服务端插件开发、性能优化、自动化工具
-- 技术栈：Java · Kotlin · Gradle/Maven · Git · GitHub Actions · Spigot/Paper API
+- 技术栈：Java · Kotlin · Gradle · Git · GitHub Actions · Spigot/Paper API
 - 常用 IDE：Visual Studio Code
 - 近况：在撸新的小插件/维护旧项目中
 
@@ -49,11 +49,10 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/Spigot/Paper-2C3E50?style=for-the-badge" alt="Spigot/Paper"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 
 </div>
 
