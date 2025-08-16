@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Spigot/Paper-2C3E50?style=for-the-badge" alt="Spigot/Paper"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 
 </div>
 
@@ -94,17 +94,25 @@
   <a href="https://github.com/cyf112233/sayfuck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyf112233&repo=sayfuck&theme=transparent&hide_border=true" alt="sayfuck"/>
   </a>
+  <a href="https://github.com/cyf112233/BetterPlugins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyf112233&repo=BetterPlugins&theme=transparent&hide_border=true" alt="BetterPlugins"/>
+  </a>
+  <a href="https://github.com/cyf112233/jmcomic_onebot-2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyf112233&repo=jmcomic_onebot-2.0&theme=transparent&hide_border=true" alt="jmcomic_onebot-2.0"/>
+  </a>
 </div>
 
 - 直链：
   - https://github.com/cyf112233/fuckportal
   - https://github.com/cyf112233/sayfuck
+  - https://github.com/cyf112233/BetterPlugins
+  - https://github.com/cyf112233/jmcomic_onebot-2.0
 
 <br/>
 
 <!-- Projects -->
 ### 一点碎碎念
-- 有时会写一些 <b>Bukkit</b> 服务端插件，偶尔也会写点别的项目
+- 有时会写一些 <b>spigot</b> 服务端插件，偶尔也会写点别的项目
 - 欢迎看看我的公开仓库：<a href="https://github.com/cyf112233?tab=repositories">Repositories</a>
 - 如果你对我的插件有建议或想法，欢迎直接提 Issue 或发 Discussion
 
