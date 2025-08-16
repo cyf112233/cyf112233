@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>你好，我是 CYF (cyf112233)</h1>
+  <h1>你好，我是cyf112233</h1>
   <p>一名偶尔写 <b>Bukkit / Spigot / Paper</b> 服务端插件的开发者，也会折腾点别的有趣项目</p>
 
   <!-- Profile badges -->
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Spigot/Paper-2C3E50?style=for-the-badge" alt="Spigot/Paper"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=20" alt="Visual Studio Code"/>
 
 </div>
 
